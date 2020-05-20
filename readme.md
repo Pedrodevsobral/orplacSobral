@@ -11,7 +11,7 @@
 
 ### Implementações Novas. 
 
-- Adicionado funcioanlidade de Recibo e Orçamentos.
+- Adicionado funcionalidades | Recibo e Orçamentos.
 
 ### Desenvolvedor
 | [<img src="https://avatars0.githubusercontent.com/u/32919057?s=100"><br><sub>Pedro Henrique</sub>](https://github.com/Pr3d4dor) |
